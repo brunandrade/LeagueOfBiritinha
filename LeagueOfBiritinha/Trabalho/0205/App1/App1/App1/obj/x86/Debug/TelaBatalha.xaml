@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="App1.TelaBatalha"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Canvas x:ConnectionId='1' x:Name="csvsMain" HorizontalAlignment="Left" Height="704" VerticalAlignment="Top" Width="1376">
+        <Canvas.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/battlefield.png"/>
+        </Canvas.Background>
+        <Canvas x:ConnectionId='2' x:Name="person" Height="32" Canvas.Left="672" Canvas.Top="352" Width="32">
+          
+        </Canvas>
+
+        <Button x:ConnectionId='3' x:Name="inventarioBotao" HorizontalAlignment="Right" VerticalAlignment="Top" Height="64" Width="64"                               >
+
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/backpack.png"/>
+            </Button.Background>
+
+        </Button>
+
+        <TextBlock x:ConnectionId='4' x:Name="Texto1" Canvas.Left="110" TextWrapping="Wrap" Text="" Canvas.Top="10" Height="92" Width="324" FontSize="32"  Foreground="#DF0101" />
+
+        <TextBlock x:ConnectionId='5' x:Name="Texto2" Canvas.Left="110" TextWrapping="Wrap" Text="" Canvas.Top="60" Height="60" Width="100" FontSize="32"/>
+
+        <TextBlock x:ConnectionId='6' x:Name="Texto3" Canvas.Left="110" TextWrapping="Wrap" Text="" Canvas.Top="110" FontSize="32" Foreground="#0B0B61"/>
+
+        <TextBlock x:ConnectionId='7' x:Name="VidaText"  Canvas.Left="1200" TextWrapping="Wrap" Text="" Canvas.Top="10" Height="92" Width="324" FontSize="32"  Foreground="#DF0101"/>
+        <TextBlock x:ConnectionId='8' x:Name="AtaqueText" Canvas.Left="1200" TextWrapping="Wrap" Text="" Canvas.Top="60" Height="60" Width="100" FontSize="32"/>
+        <TextBlock x:ConnectionId='9' x:Name="DefesaText" Canvas.Left="1200" TextWrapping="Wrap" Text="" Canvas.Top="110" FontSize="32" Foreground="#0B0B61"/>
+    </Canvas>
+</Page>
+

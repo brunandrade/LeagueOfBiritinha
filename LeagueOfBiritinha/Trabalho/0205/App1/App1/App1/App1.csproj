@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{1FC3BEF2-144F-42E6-BAB1-18AB8AE357EF}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App1</RootNamespace>
+    <AssemblyName>App1</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.10586.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10586.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>App1_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="project.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerSelect.xaml.cs">
+      <DependentUpon>PlayerSelect.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TelaBatalha.xaml.cs">
+      <DependentUpon>TelaBatalha.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TelaInicial.xaml.cs">
+      <DependentUpon>TelaInicial.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="App1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\6.png" />
+    <Content Include="Assets\armaChefao.png" />
+    <Content Include="Assets\arqueiraBack.png" />
+    <Content Include="Assets\arqueiraDir.png" />
+    <Content Include="Assets\arqueiraEsq.png" />
+    <Content Include="Assets\arqueiraFrente.png" />
+    <Content Include="Assets\ArqueiraRPG.png" />
+    <Content Include="Assets\back.png" />
+    <Content Include="Assets\backpack.png" />
+    <Content Include="Assets\battlefield.png" />
+    <Content Include="Assets\bauBack.png" />
+    <Content Include="Assets\bauDir.png" />
+    <Content Include="Assets\bauEsq.png" />
+    <Content Include="Assets\bauFrente.png" />
+    <Content Include="Assets\bg.png" />
+    <Content Include="Assets\botaoARQUEIRA.png" />
+    <Content Include="Assets\botaoATACAR.png" />
+    <Content Include="Assets\botaoATUALIZAR.png" />
+    <Content Include="Assets\botaoFEITICEIRA.png" />
+    <Content Include="Assets\botaoGUERREIRO.png" />
+    <Content Include="Assets\botaoJOGARNOVAMENTE.png" />
+    <Content Include="Assets\botaoLADRAO.png" />
+    <Content Include="Assets\chefao2.png" />
+    <Content Include="Assets\dir.png" />
+    <Content Include="Assets\esq.png" />
+    <Content Include="Assets\facaBaixo.png" />
+    <Content Include="Assets\facaCima.png" />
+    <Content Include="Assets\facaDir.png" />
+    <Content Include="Assets\facaEsq.png" />
+    <Content Include="Assets\fechar.png" />
+    <Content Include="Assets\feiticeira.png" />
+    <Content Include="Assets\FeiticeiraRPG.png" />
+    <Content Include="Assets\flecha.png" />
+    <Content Include="Assets\front.png" />
+    <Content Include="Assets\GAMEOVER.png" />
+    <Content Include="Assets\guerreiroBack.png" />
+    <Content Include="Assets\guerreiroDir.png" />
+    <Content Include="Assets\guerreiroEsq.png" />
+    <Content Include="Assets\guerreiroFrente.png" />
+    <Content Include="Assets\GuerreiroRPG.png" />
+    <Content Include="Assets\heart.png" />
+    <Content Include="Assets\instruções.png" />
+    <Content Include="Assets\inventario.png" />
+    <Content Include="Assets\item51.png" />
+    <Content Include="Assets\itemBiritinha.png" />
+    <Content Include="Assets\itemCaju.png" />
+    <Content Include="Assets\ItemCaninha.png" />
+    <Content Include="Assets\itemCatuaba.png" />
+    <Content Include="Assets\itemEngov.png" />
+    <Content Include="Assets\itemLimaoComMEel.png" />
+    <Content Include="Assets\itemPitu.png" />
+    <Content Include="Assets\itemReicaido.png" />
+    <Content Include="Assets\itemWarmog.png" />
+    <Content Include="Assets\jogar.png" />
+    <Content Include="Assets\ladraoBack.png" />
+    <Content Include="Assets\ladraoDir.png" />
+    <Content Include="Assets\ladraoEsq.png" />
+    <Content Include="Assets\ladraoFrente.png" />
+    <Content Include="Assets\LadraoRPG.png" />
+    <Content Include="Assets\machadoBaixo.png" />
+    <Content Include="Assets\machadoCima.png" />
+    <Content Include="Assets\machadoDir.png" />
+    <Content Include="Assets\machadoEsq.png" />
+    <Content Include="Assets\magiaBaixo.png" />
+    <Content Include="Assets\magiaCima.png" />
+    <Content Include="Assets\magiaDir.png" />
+    <Content Include="Assets\magiaEsq.png" />
+    <Content Include="Assets\mapajogo.png" />
+    <Content Include="Assets\mapinhacerto.png" />
+    <Content Include="Assets\player1.png" />
+    <Content Include="Assets\player2.png" />
+    <Content Include="Assets\poderChefao.png" />
+    <Content Include="Assets\sair.png" />
+    <Content Include="Assets\shieldch.png" />
+    <Content Include="Assets\telainicial.png" />
+    <Content Include="Assets\upg_bow.png" />
+    <Content Include="Assets\upg_shield.png" />
+    <Content Include="Assets\upg_sword.png" />
+    <Content Include="Assets\upg_wand.png" />
+    <Content Include="Assets\vidaChefao.png" />
+    <Content Include="Assets\YOUWIN.png" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PlayerSelect.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TelaBatalha.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TelaInicial.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\EngineRPG\EngineRPG.csproj">
+      <Project>{dbb1c5f2-277b-4082-9f10-3fbf54228472}</Project>
+      <Name>EngineRPG</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

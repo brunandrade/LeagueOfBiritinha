@@ -1,0 +1,135 @@
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\bin\x86\Debug\EngineRPG.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\bin\x86\Debug\EngineRPG.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\bin\x86\Debug\EngineRPG.pri
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\EngineRPG.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\EngineRPG.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\EngineRPG.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\priconfig.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\layout.resfiles
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\resources.resfiles
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\pri.resfiles
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\qualifiers.txt
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Lenovo\documents\visual studio 2015\Projects\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\EngineRPG.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\EngineRPG.dll
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\EngineRPG.pdb
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\bin\x86\Debug\EngineRPG.dll
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\bin\x86\Debug\EngineRPG.pdb
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\bin\x86\Debug\EngineRPG.pri
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\priconfig.xml
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\layout.resfiles
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\resources.resfiles
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\pri.resfiles
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\qualifiers.txt
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\gabri\Downloads\LeagueOfBiritinha\LeagueOfBiritinha\EngineRPG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\bin\x86\Debug\EngineRPG.dll
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\bin\x86\Debug\EngineRPG.pdb
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\bin\x86\Debug\EngineRPG.pri
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\EngineRPG.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\EngineRPG.dll
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\EngineRPG.pdb
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\priconfig.xml
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\layout.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\resources.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\pri.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\qualifiers.txt
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\1904\EngineRPG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\bin\x86\Debug\EngineRPG.dll
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\bin\x86\Debug\EngineRPG.pdb
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\bin\x86\Debug\EngineRPG.pri
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\EngineRPG.csprojResolveAssemblyReference.cache
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\EngineRPG.dll
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\EngineRPG.pdb
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\priconfig.xml
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\layout.resfiles
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\resources.resfiles
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\pri.resfiles
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\qualifiers.txt
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\gabri\AppData\Roaming\Skype\My Skype Received Files\Juntar\EngineRPG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.dll
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.pdb
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.pri
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\EngineRPG.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\EngineRPG.dll
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\EngineRPG.pdb
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\priconfig.xml
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\layout.resfiles
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\resources.resfiles
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\pri.resfiles
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\qualifiers.txt
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\aluno\Documents\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.dll
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.pdb
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.pri
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\EngineRPG.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\EngineRPG.dll
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\EngineRPG.pdb
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\priconfig.xml
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\layout.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\resources.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\pri.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\qualifiers.txt
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\2604\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.dll
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.pdb
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\bin\x86\Debug\EngineRPG.pri
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\EngineRPG.dll
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\EngineRPG.pdb
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\priconfig.xml
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\layout.resfiles
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\resources.resfiles
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\pri.resfiles
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\qualifiers.txt
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\gabri\Pictures\LEAGUEOFBIRITINHA\EngineRPG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\bin\x86\Debug\EngineRPG.dll
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\bin\x86\Debug\EngineRPG.pdb
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\bin\x86\Debug\EngineRPG.pri
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\EngineRPG.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\EngineRPG.dll
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\EngineRPG.pdb
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\priconfig.xml
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\layout.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\resources.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\pri.resfiles
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\qualifiers.txt
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Lenovo\Desktop\Trabalho\0205\EngineRPG\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

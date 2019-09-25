@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="43" height="22" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="terrain_atlas" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="../terrain_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Camada de Tiles 2" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMA6DBy65/guU4KNhLqqqqqk8OA8iLdg==
+  </data>
+ </layer>
+ <layer name="battlefield" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztzsENABAQRNHZGlAJKkH/rdi7k2ziIP8nc54nEd2XTMrBFXtjrf7TgutYsWLFihUrVqxYj4b/zODWIyv91QYfZjuh
+  </data>
+ </layer>
+ <layer name="lava" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzNln0OgjAMxdcbqCdBToLcZJxUPQl6Ammw4aW2gH/Q7SUNXy/ht63rmlK9OlFK529caN3jfY8QM7yn65XmaB2WZuP70dKcFssIvqEQq8VpsWrfK8XnQUO/nBar+AYqx2uxPqb3vWLopudnmlklLN+REoY1TtaenI4Q8vL/R8dzg7kV7z2Ylf+HtUhqqAhrKvsy5Gt0rcX1bWnhFuE4ML+jc9Y6A2S9RfLc05IvmeJzVtcBrw7h+bvnfItgtdbUqgG1ziueA3ljXEdK11drrtCTFWd03yV7R8KaK89Tuu/6R93K+EoIa4AXJXtv5JSeVfdZch+9xzxhf4X7n9/xtab1Z1n7qquM8QNlhU8R
+  </data>
+ </layer>
+ <layer name="tronco" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztV+0KgCAMHL539STVq2Y/BkOcbG5+FB5I4Nx1M28YwPewBYA9jiP0ybNwnTF+xXEn63L5dI7mWXVzGqS1YD6nT/MuKzS1tNThgdZ7pYGXL3pAumeefq/ltvYJD0i5ZzqPf8IfvdUaEt94e7AWEt8sDy6M7gPog5IfMDb6DKIPSvdgjM0E1Oh5f0+5OR5tz8z1Gjqn0cx9G1q/5P+BIrcmx/U+H2fZW8E=
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBg+M3MMCzBcPUXNkCJX/8yMjD8Y6SeW2gJZJkYGOSYBtoVxAFboDvthohbY4HujBsibh1KYDRv0QaM5q1RMNTASGqPjIJRQEtAaV4azYuDH5ASRwAirA3n
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzFVwEOwjAIZH2H+hL1JepP1JdMP6pGEtMECW2B0u0Sko1u9NoctxXgh30COGAcE/xhg/dbjF2Sc/Q96dmMK+ZuGHdhzIoT1jhjXFgtaQ00R9/LeYnXjNcPjCerP3oNpXXlPOXFufD70hrWAOeyBLfXBPDG+EzxtbU60HKo9U0vP+1eazmUfMILjxa0HEr9tCTW4hDpVaPh0YC2t0b5gGV/tb0V7QMZlv3V9la0D3j0qu2t6B706HXUt0gLy/6O0KAFlv2N1KAFHr32aLDlY7Xx0Xrlc1Mfk3hFnxMseuVzt84v3Oc8/1YUFr3yuaXzC63Ffa73P9ui15rH1sZa5xgtvgW5bHY=
+  </data>
+ </layer>
+ <layer name="Camada de Tiles 15" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzt1rEJACAQQ9Fzc0fQTXQT3chcayMoisV/cGVCyjPDL3KwmHS7eWW944mqneVgq7Le8UTXznawVVnvAAAAE36XO/hdgLUB+YsWpQ==
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztzsENQBEUBdFHHagElaD/Ij5xO7D0JXOS2c/nzKZa6u+CN4sq+dsnZ1mPRdUHXpseuxoPvAIAAADABj92BTI=
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztlVEKgCAQRFfPUZ2kOkl1/0NUNBFBiZjKbgntg/kQhdX3MRLFMRuiBVnN89nWEnVIj1RIjTT22HPXEqTMGHBmRCZ7v7f7jpMUDzH4ZsRwvbdvvcPt2jeDi1wPXyDpQVH+BnenSvLG/8WFdqqi8KE9lU/IXWk9FXJXWk+V5i6EpLsNZE8gPg==
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztk8ENgDAMA93OAUwCTALsPwSgegQaGioUn+RfouThA9oxZGBkpvx8Z+bswqwVOy2w3N04uzPHx7/W3D0TcDF38v/rLZa+9KJXTy306mkU5JgPckz8Afnvg/yPjbzyIYJXBS6DGNY=
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzt1MEJgDAUBNFN6lArUSsx9l+EittBQPiExHmw9zmtBGAkV5Ju70mtS+qmLM3ekluX1K1u3Ly9g9bDjcU7O2hFLP4gBn8AfMcvxfjjL73zfA+U
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztlbENgEAMA/M/BzAJMAmw/xCAPhRpUvhFZb3kk1xEbq6wFDMhxB/uYvZ43sI26TNVs9mzVLZJn9UdN88+gOvhjqfnGsBVCCE+0O+KjkV2Q78rOhbZDf2u6FhkN/S7omOB3PI+2HtF5H2w94rI+2DvFZH3EXcDuTobqQ==
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztl8ENgDAIRbFzqJNUJ6nuP4Qa6Y0DWri0kPASzn35tIQC2CEngA1rT6NN2hR0PLBOB65B8Mc1jTaQMzt6b9mRa3HkGgQxs3TUvG6sp5GbhZlV81qwVuLC+VuYWdzOSv2lufeA21mpP5e7Jai/xb/CV697/BW092xkr7VnS3r9Ar82HEc=
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztlcEJgEAQA/euDrUStRK1E7UStVEV429fcge7cEIG8g15TUQIIYSQMjiDyIXcwaZvjiILskabPk2FzhppjLo39OzI4bC1RWeH9A7d1gzYOCLTD7YS8pLirRwXWXtL70vxVo6LrL2l95XuLb2vdG957/P82i8eRwEbNA==
+  </data>
+ </layer>
+ <layer name="arv" width="43" height="22">
+  <data encoding="base64" compression="zlib">
+   eJyTY2LACiJwiA8ksCPgpj+MDAx/gfgfI/XtJjU84giolwHKywKx3CAMZ3RgA3SjLRPh8B8MIAboxlgmRPgPhnQ8GNwwUgEtywRqg9EygTYAvUwYBUMfDMUylZSyaKDbMqSURQNdbpFSFg10uYWtLMIVH0Ot3KJXXUsNe5DTLC3dTWrewOYW5DRLy7xGat7A5hbkNEuqeaSU6eh5AwB+CCoi
+  </data>
+ </layer>
+</map>
