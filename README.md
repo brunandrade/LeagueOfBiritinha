@@ -1,5 +1,5 @@
 # LeagueOfBiritinha
-Jogo RPG criado para a matéria Linguagem de Programação II.
+Jogo RPG criado para a matéria Linguagem de Programação II utilizando C# e tilemap.
 
 Neste jogo, você pode escolher alguns personagens (cada um com habilidades diferentes). Itens estão dispostos no mapa para que você possa ficar forte e derrotar o chefão. =)
 
