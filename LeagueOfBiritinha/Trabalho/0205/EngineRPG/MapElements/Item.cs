@@ -35,13 +35,13 @@ namespace EngineRPG.MapElements
         public Biritinha()
         {
             Vida = 300;
-            Ataque = 200;
+            Ataque = 220;
             Defesa = 100; 
 
             nomeItem = "Item Biritinha";
 
             vidaItem = "Vida = 300";
-            ataqueItem = "Ataque = 200";
+            ataqueItem = "Ataque = 220";
             defesaItem = "Defesa = 200";
 
 
